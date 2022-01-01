@@ -1,0 +1,10 @@
+DeltacoUSB 3.0 - DVI/HDMI/VGA-sovitin, valkoinen 59.0
+j5 createJUA330, USB 3.0 - DVI-sovitin, 1xDVI-I, musta 69.0
+MSINVIDIA GeForce GT 710 2GD3H LP -näytönohjain, 2GB DDR3, PCI-E 2.0 72.0
+MSIGeForce GT 730 -näytönohjain, 2GB DDR3 79.9
+j5 createUSB 3.0 - HDMI-sovitin, lisänäytönohjauskortti, musta 84.0
+MSINVIDIA GeForce GT 730 -näytönohjain, 2GB DDR3, PCI-E 2.0 89.9
+AsusGeForce GT 710 -näytönohjain, 1GB GDDR5 99.0
+AsusGeForce GT 1030 -näytönohjain, 2GB DDR4 99.9
+AsusGeForce GT 1030 OC -näytönohjain, 2GB GDDR5 104.9
+MSIGeForce GT 1030 LP OC-näytönohjain, 2GB GDDR5 105.0
