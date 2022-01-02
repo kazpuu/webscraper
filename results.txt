@@ -1,0 +1,37 @@
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										PNYTesla V100S -näytönohjain ammattikäyttöön, 32GB HBM2 15999.0 €
+										PNYNVIDIA Quadro GV100 -näytönohjain, 32GB HBM2 10809.0 €
+										AMDRadeon Instinct MI100 -näytönohjain, 32GB HBM2 7699.0 €
+										PNYNVIDIA Quadro RTX 8000 Passive -näytönohjain, 48GB GDDR6 7199.0 €
+										PNYNVIDIA Quadro RTX 8000 -näytönohjain, 48GB GDDR6 6999.0 €
+										PNYNVIDIA Tesla P40 -näytönohjain, 24GB GDDR5 6899.0 €
+										PNYNVIDIA Tesla A40 -näytönohjain, 48GB GDDR6 6199.0 €
+										PNYNVIDIA Quadro RTX A6000 -näytönohjain, 48GB GDDR6 5999.0 €
+										PNYNVIDIA Quadro RTX 6000 Passive -näytönohjain, 24GB GDDR6 5999.0 €
+										PNYNVIDIA Quadro RTX 6000 -näytönohjain, 24GB GDDR6 5199.0 €
+										AsusGeForce RTX 3090 EKWB -näytönohjain, 24GB GDDR6X 3349.9 €
+										AsusGeForce RTX 3090 ROG Strix White Edition - OC Edition -näytönohjain, 24GB GDDR6X 3239.9 €
+										AsusGeForce RTX 3090 ROG Strix White Edition -näytönohjain, 24GB GDDR6X 3229.9 €
+										AsusGeForce RTX 3090 ROG Strix - OC Edition -näytönohjain, 24GB GDDR6X 3219.9 €
+										MSIGeForce RTX 3090 SUPRIM X -näytönohjain, 24GB GDDR6X 3219.9 €
+										AsusGeForce RTX 3090 ROG Strix -näytönohjain, 24GB GDDR6X 3209.9 €
+										ZotacGeForce RTX 3090 AMP Core Holo -näytönohjain, 24GB GDDR6X 3199.0 €
+										GigabyteGeForce RTX 3090 AORUS XTREME WATERFORCE WB -näytönohjain, 24GB GDDR6X 3149.9 €
+										GigabyteGeForce RTX 3090 AORUS MASTER -näytönohjain, 24GB GDDR6X 3149.0 €
+										EVGAGeForce RTX 3090 FTW3 ULTRA GAMING -näytönohjain, 24GB GDDR6X 3149.0 €

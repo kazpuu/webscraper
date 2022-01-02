@@ -17,7 +17,7 @@ def sortPrice(GPUdict, y, r, stock2):
                 n += 1
                 #Printing and writing the result to a file
                 print(key +" "+ str(value))
-                f.write(key +" "+ str(value)+"\n")
+                f.write(key +" "+ str(value)+" €"+"\n")
         f.close()
 #Defining the actual scraper function
 def GPUScraper():
